@@ -136,5 +136,4 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 #profiling start time
 #zprof
 
-eval "$(rbenv init -)"
 eval $(dinghy env)
